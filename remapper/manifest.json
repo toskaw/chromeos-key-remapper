@@ -1,5 +1,5 @@
 {
-  "name": "US keyboard x emacs",
+  "name": "US/JP keyboard x emacs",
   "version": "1.0",
   "manifest_version": 2,
   "description": "US keyboard with emacs-like cursor movement",
@@ -20,8 +20,16 @@
       "type": "ime",
       "id": "io.github.ento.cros_key_remapper",
       "description": "US keyboard with emacs-like cursor movement",
-      "language": "en-US",
+      "language": "en",
       "layouts": ["us"]
+    },
+    {
+      "name": "JP x emacs",
+      "type": "ime",
+      "id": "io.github.ento.cros_key_remapper_jp",
+      "description": "JP keyboard with emacs-like cursor movement",
+      "language": "ja",
+      "layouts": ["jp"]
     }
   ]
 }
