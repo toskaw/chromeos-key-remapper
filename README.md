@@ -1,3 +1,8 @@
+#川島改変
+
+- manifestをV3に変更
+- 一部キーマップを追加,変更(C-M-a,C-M-e,C-k,C-s）
+
 # chromeos-key-remapper
 
 This repo contains:
